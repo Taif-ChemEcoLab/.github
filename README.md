@@ -49,7 +49,7 @@ Specialization: Chemical Ecology, Bioorganic Chemistry, GC–MS, Chemosphere, In
 Role: Experimental design, GC–MS experiments, volatile compound datasets
 
 **Noura Alotaibi, PhD**  
-Assistant Professor of Entomology 
+Assistant Professor of Entomology, Saudi Arabia
 Specialization: Molecular Entomology, Ecological and Chemical Relationships between Living Organisms, Insects and Biological Control Agents  
 Role: Entomology expertise, insect–plant interaction experiments, behavioral bioassays
 
