@@ -3,7 +3,7 @@
 ## Chemical Ecology & Applied Metabolomics Research
 
 Taif-ChemEcoLab is a research initiative based at  
-**Department of Chemistry, College of Science, Taif University, Saudi Arabia.**
+**Department of Chemistry and Biology, College of Science, Taif University, Saudi Arabia.**
 
 Our research focuses on:
 
