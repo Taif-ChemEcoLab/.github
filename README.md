@@ -54,8 +54,8 @@ Specialization: Molecular Entomology, Ecological and Chemical Relationships betw
 Role: Entomology expertise, insect–plant interaction experiments, behavioral bioassays
 
 **Taufia Hussain, PhD**  
-Computational Research Scientist- CEO & Cofounder DataLens.Tools, University of Rostock, Germany
-Specialization: Computational Biology, Scientific Data Analysis, Knowledge Graphs, AI for Biological Data
+Computational Research Scientist – CEO & Cofounder DataLens.Tools, University of Rostock, Germany  
+Specialization: Computational Biology, Scientific Data Analysis, Knowledge Graphs, AI for Biological Data  
 Role: VOC data integration, aphid and insect volatile compound library development, Knowledge graph architecture, data processing pipeline
 
 
