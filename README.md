@@ -49,14 +49,14 @@ Specialization: Chemical Ecology, Bioorganic Chemistry, GC–MS, Chemosphere, In
 Role: Experimental design, GC–MS experiments, volatile compound datasets
 
 **Noura Alotaibi, PhD**  
-Assistant Professor of Entomology  
+Assistant Professor of Entomology 
 Specialization: Molecular Entomology, Ecological and Chemical Relationships between Living Organisms, Insects and Biological Control Agents  
 Role: Entomology expertise, insect–plant interaction experiments, behavioral bioassays
 
 **Taufia Hussain, PhD**  
 Computational Research Scientist- CEO & Cofounder DataLens.Tools, University of Rostock, Germany
-Specialization: Computational Biology, Scientific Data Analysis, Knowledge Graphs, AI for Biological Data, GraphRAG Systems
-Role: VOC data integration, aphid and insect volatile compound library development, Knowledge graph architecture, GraphRAG system, data processing pipeline.
+Specialization: Computational Biology, Scientific Data Analysis, Knowledge Graphs, AI for Biological Data
+Role: VOC data integration, aphid and insect volatile compound library development, Knowledge graph architecture, data processing pipeline
 
 
 
