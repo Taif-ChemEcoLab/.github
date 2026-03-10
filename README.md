@@ -16,14 +16,12 @@ Our research focuses on:
 - 📊 Data-Driven Chemical Analysis
 
 
-
 ## Current Projects
 
 - Aphid VOC Library
 - Red Palm Weevil Early Detection via Metabolomics
 - GC–MS Data Harmonization Pipelines
 - Chemical Signal Biomarker Discovery
-
 
 
 ## Research Vision
@@ -36,7 +34,6 @@ We aim to integrate:
 - Machine learning approaches
 
 to develop sustainable and rapid pest detection systems.
-
 
 
 ## Project Contributors
@@ -57,7 +54,6 @@ Role: Entomology expertise, insect–plant interaction experiments, behavioral b
 Computational Research Scientist – CEO & Cofounder DataLens.Tools, University of Rostock, Germany  
 Specialization: Computational Biology, Scientific Data Analysis, Knowledge Graphs, AI for Biological Data  
 Role: VOC data integration, aphid and insect volatile compound library development, Knowledge graph architecture, data processing pipeline
-
 
 
 ## Contact
