@@ -40,7 +40,7 @@ We aim to integrate:
 
 to develop sustainable and rapid pest detection systems.
 
-https://library-chem-voc-bio.streamlit.app/
+https://taif-chem-eco-lab.streamlit.app/
 
 ## Project Contributors
 
