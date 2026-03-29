@@ -13,7 +13,7 @@ Our research focuses on:
 
 - 🌿 Chemical Ecology
 - 🐜 Insect–Plant Interactions
-- 🧪 GC–MS Metabolomics
+- 🧪 GC–MS analysis
 - 🌱 Volatile Organic Compounds (VOCs)
 - 🔬 Sustainable Pest Management
 - 📊 Data-Driven Chemical Analysis
