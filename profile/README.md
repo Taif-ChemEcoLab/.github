@@ -40,9 +40,9 @@ We aim to integrate:
 
 to develop sustainable and rapid pest detection systems.
 
-https://taif-chem-eco-lab.streamlit.app/
+Link to the libabary: https://taif-chem-eco-lab.streamlit.app/
 
-https://palm-volatile-network-graph.netlify.app/
+Link to the interaction network: https://palm-volatile-network-graph.netlify.app/
 
 ## Project Contributors
 
