@@ -42,7 +42,6 @@ to develop sustainable and rapid pest detection systems.
 
 Link to the library: https://taif-chem-eco-lab.streamlit.app/
 
-Link to the interaction network: https://palm-volatile-network-graph.netlify.app/
 
 ## Project Contributors
 
