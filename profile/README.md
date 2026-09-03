@@ -41,6 +41,7 @@ We aim to integrate:
 to develop sustainable and rapid pest detection systems.
 
 Link to the library: https://taif-chem-eco-lab.streamlit.app/
+Link to the library with Aphid data: https://taif-aphid-voc-library.streamlit.app/
 
 
 ## Project Contributors
