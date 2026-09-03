@@ -44,6 +44,8 @@ Link to the library: https://taif-chem-eco-lab.streamlit.app/
 
 Link to the library with Aphid data: https://taif-aphid-voc-library.streamlit.app/
 
+Link to the Aphid data source code: https://github.com/Taif-ChemEcoLab/Taif-aphid-voc-library
+
 
 ## Project Contributors
 
