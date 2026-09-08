@@ -6,7 +6,7 @@ Taif-ChemEcoLab is a research initiative based at
 
 **Department of Chemistry and Biology, College of Science, Taif University, Saudi Arabia.**
 
-**In collaboration with Department of Biosciences, University of Rostock, Germany.**
+**In collaboration with Department of Biosciences, University of Rostock, Rostock, Germany.**
 
 
 Our research focuses on:
@@ -49,7 +49,7 @@ Link to the Aphid data source code: https://github.com/Taif-ChemEcoLab/Taif-aphi
 
 ## Project Contributors
 
-This project integrates experimental chemical ecology research with computational data analysis and knowledge graph development.
+This project integrate experimental chemical ecology research with computational data analysis and knowledge graph development.
 
 **Taghreed Alsufyani, PhD**  
 Associate Professor – Department of Chemistry, Taif University, Saudi Arabia  
